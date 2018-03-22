@@ -1,6 +1,6 @@
 # Practice React
 
-This is practice **'Web Framework'** by **'Learning React'** 
+This is practice react library by **'Learning React'** 
 
 ### Sample Code 
 http://github.com/moonhighway/learning-react
